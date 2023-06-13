@@ -17,7 +17,11 @@
   "isPublic": true,
   "dependencies": {
     "test1packfn": {
-      "directory": "test1packfn"
+      "directory": "test1packfn",
+      "versionId": "I32ShEE4oKrpkJa4D26O1",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "um0ZXMuFxLWw27kQIqyXI"
 }
