@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "test1pack": {
-      "directory": "test1pack"
+      "directory": "test1pack",
+      "versionId": "um0ZXMuFxLWw27kQIqyXI",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "WIX7Jcdspe99c6cKpEJm8"
 }
