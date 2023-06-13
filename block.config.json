@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "nfJWF-Wfl06epbFuVh6XJ",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/test1.git",
+    "ssh": "git@github.com:uttahb/test1.git",
     "branch": "block_test1"
   },
   "parentBlockIDs": [],
