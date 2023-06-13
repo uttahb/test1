@@ -1,0 +1,21 @@
+{
+  "name": "test1",
+  "type": "package",
+  "blockId": "nfJWF-Wfl06epbFuVh6XJ",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_test1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "test1pack": {
+      "directory": "test1pack"
+    }
+  }
+}
